@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "tokenuetch",
+        "uuid": 44998800,
+        "checksum": "c64dhb"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "production"
+    }
+}
